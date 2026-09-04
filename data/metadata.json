@@ -1,0 +1,555 @@
+{
+  "fetched_at": "2026-09-04T07:34:38.555295+00:00",
+  "params": {
+    "engine": "google_scholar_author",
+    "hl": "en",
+    "author_id": "pgD4ZGgAAAAJ",
+    "sort": "pubdate",
+    "output": "json",
+    "source": "python"
+  },
+  "results": {
+    "search_metadata": {
+      "id": "6a9a748df0114a2cf5512ad3",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/c3Y9UurB-PDYCii0VzWKrF4YET3V1ltcLeLvGy6nvrk/6a9a748df0114a2cf5512ad3.json",
+      "markdown_endpoint": "https://serpapi.com/searches/c3Y9UurB-PDYCii0VzWKrF4YET3V1ltcLeLvGy6nvrk/6a9a748df0114a2cf5512ad3.md",
+      "created_at": "2026-09-04 07:34:37 UTC",
+      "processed_at": "2026-09-04 07:34:37 UTC",
+      "google_scholar_author_url": "https://scholar.google.com/citations?user=pgD4ZGgAAAAJ&hl=en&sortby=pubdate",
+      "raw_html_file": "https://serpapi.com/searches/c3Y9UurB-PDYCii0VzWKrF4YET3V1ltcLeLvGy6nvrk/6a9a748df0114a2cf5512ad3.html",
+      "total_time_taken": 1.07
+    },
+    "search_parameters": {
+      "engine": "google_scholar_author",
+      "author_id": "pgD4ZGgAAAAJ",
+      "hl": "en",
+      "sort": "pubdate"
+    },
+    "author": {
+      "name": "Pinhao Song",
+      "affiliations": "KU Leuven | Peking University",
+      "email": "Verified email at kuleuven.be",
+      "website": "https://mousecpn.github.io/",
+      "interests": [
+        {
+          "title": "Neurobotics",
+          "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:neurobotics",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aneurobotics"
+        },
+        {
+          "title": "Probabilistic Robotics",
+          "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:probabilistic_robotics",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aprobabilistic_robotics"
+        },
+        {
+          "title": "Underwater Object Detection",
+          "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:underwater_object_detection",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aunderwater_object_detection"
+        }
+      ],
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=pgD4ZGgAAAAJ&citpid=2"
+    },
+    "articles": [
+      {
+        "title": "DeblurSplat: Traditional SfM-free 3D Gaussian Splatting with Event Camera for Robust Deblurring",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=pgD4ZGgAAAAJ&sortby=pubdate&citation_for_view=pgD4ZGgAAAAJ:r0BpntZqJG4C",
+        "citation_id": "pgD4ZGgAAAAJ:r0BpntZqJG4C",
+        "authors": "P Li, P Song, W Guo, H Yao, Y Lu, FR Yu, H Xiong",
+        "publication": "IEEE Transactions on Multimedia, 2026",
+        "cited_by": {
+          "value": 1,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16233713850046858153,3143425656856785102",
+          "serpapi_link": "https://serpapi.com/search.json?cites=16233713850046858153%2C3143425656856785102&engine=google_scholar&hl=en",
+          "cites_id": "16233713850046858153,3143425656856785102"
+        },
+        "year": "2026"
+      },
+      {
+        "title": "Robot Trajectron V3: A Probabilistic Shared Control Framework for SE (3) Manipulation",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=pgD4ZGgAAAAJ&sortby=pubdate&citation_for_view=pgD4ZGgAAAAJ:j3f4tGmQtD8C",
+        "citation_id": "pgD4ZGgAAAAJ:j3f4tGmQtD8C",
+        "authors": "P Song, Z Li, Z Fu, FU Rios, R Detry",
+        "publication": "arXiv preprint arXiv:2607.09315, 2026",
+        "cited_by": {
+          "value": null
+        },
+        "year": "2026"
+      },
+      {
+        "title": "Assistron: Bayesian Shared Autonomy with Off-the-shelf Vision-Language-Action Models",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=pgD4ZGgAAAAJ&sortby=pubdate&citation_for_view=pgD4ZGgAAAAJ:RHpTSmoSYBkC",
+        "citation_id": "pgD4ZGgAAAAJ:RHpTSmoSYBkC",
+        "authors": "P Song, Z Fu, Y Hu, R Detry",
+        "publication": "arXiv preprint arXiv:2606.23147, 2026",
+        "cited_by": {
+          "value": 1,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7547547199737394620",
+          "serpapi_link": "https://serpapi.com/search.json?cites=7547547199737394620&engine=google_scholar&hl=en",
+          "cites_id": "7547547199737394620"
+        },
+        "year": "2026"
+      },
+      {
+        "title": "Task-Aware Shared Control for Teleoperated Manipulation",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=pgD4ZGgAAAAJ&sortby=pubdate&citation_for_view=pgD4ZGgAAAAJ:iH-uZ7U-co4C",
+        "citation_id": "pgD4ZGgAAAAJ:iH-uZ7U-co4C",
+        "authors": "Z Fu, P Song, Y Hu, R Detry",
+        "publication": "IEEE International Conference on Robotics & Automation, Date: 2026/06/01 …, 2026",
+        "cited_by": {
+          "value": null
+        },
+        "year": "2026"
+      },
+      {
+        "title": "One-Shot Learning of Manipulation from RGB-D Videos via Object-Centric Interaction Reasoning",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=pgD4ZGgAAAAJ&sortby=pubdate&citation_for_view=pgD4ZGgAAAAJ:e5wmG9Sq2KIC",
+        "citation_id": "pgD4ZGgAAAAJ:e5wmG9Sq2KIC",
+        "authors": "Z Fu, P Song, Y Hu, R Detry",
+        "publication": "1st ICRA Workshop on''Beyond Teloperation: Learning from Diverse Human and …, 2026",
+        "cited_by": {
+          "value": null
+        },
+        "year": "2026"
+      },
+      {
+        "title": "ELVIS: Ensemble-Calibrated Latent Imagination for Long-Horizon Visual MPC",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=pgD4ZGgAAAAJ&sortby=pubdate&citation_for_view=pgD4ZGgAAAAJ:-f6ydRqryjwC",
+        "citation_id": "pgD4ZGgAAAAJ:-f6ydRqryjwC",
+        "authors": "Y Du, P Song, Y Hu, R Detry",
+        "publication": "arXiv preprint arXiv:2605.04709, 2026",
+        "cited_by": {
+          "value": 2,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15719835949942669279",
+          "serpapi_link": "https://serpapi.com/search.json?cites=15719835949942669279&engine=google_scholar&hl=en",
+          "cites_id": "15719835949942669279"
+        },
+        "year": "2026"
+      },
+      {
+        "title": "See&trek: Training-free spatial prompting for multimodal large language model",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=pgD4ZGgAAAAJ&sortby=pubdate&citation_for_view=pgD4ZGgAAAAJ:mVmsd5A6BfQC",
+        "citation_id": "pgD4ZGgAAAAJ:mVmsd5A6BfQC",
+        "authors": "P Li, P Song, W Li, H Yao, W Guo, Y Xu, D Liu, H Xiong",
+        "publication": "Advances in Neural Information Processing Systems 38, 62098-62131, 2026",
+        "cited_by": {
+          "value": 18,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2269321183547370823",
+          "serpapi_link": "https://serpapi.com/search.json?cites=2269321183547370823&engine=google_scholar&hl=en",
+          "cites_id": "2269321183547370823"
+        },
+        "year": "2026"
+      },
+      {
+        "title": "Shared AI–brain control for reliable intracortical BCI navigation in dynamic environments",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=pgD4ZGgAAAAJ&sortby=pubdate&citation_for_view=pgD4ZGgAAAAJ:4JMBOYKVnBMC",
+        "citation_id": "pgD4ZGgAAAAJ:4JMBOYKVnBMC",
+        "authors": "O Saussus, P Song, S De Schrijver, I Caprara, T Decramer, R Detry, ...",
+        "publication": "bioRxiv, 2026.03. 23.713738, 2026",
+        "cited_by": {
+          "value": null
+        },
+        "year": "2026"
+      },
+      {
+        "title": "Mini Diffuser: Fast Multi-Task Diffusion Policy Training Using Two-Level Mini-Batches",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=pgD4ZGgAAAAJ&sortby=pubdate&citation_for_view=pgD4ZGgAAAAJ:aqlVkmm33-oC",
+        "citation_id": "pgD4ZGgAAAAJ:aqlVkmm33-oC",
+        "authors": "Y Hu, P Song, K Wen, R Detry",
+        "publication": "IEEE Robotics and Automation Letters 11 (1), 938-945, 2025",
+        "cited_by": {
+          "value": 2,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9934090663799996451,13729204230050558185",
+          "serpapi_link": "https://serpapi.com/search.json?cites=9934090663799996451%2C13729204230050558185&engine=google_scholar&hl=en",
+          "cites_id": "9934090663799996451,13729204230050558185"
+        },
+        "year": "2025"
+      },
+      {
+        "title": "Robot trajectron v2: A probabilistic shared control framework for navigation",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=pgD4ZGgAAAAJ&sortby=pubdate&citation_for_view=pgD4ZGgAAAAJ:QIV2ME_5wuYC",
+        "citation_id": "pgD4ZGgAAAAJ:QIV2ME_5wuYC",
+        "authors": "P Song, Y Du, O Saussus, S De Schrijver, I Caprara, P Janssen, R Detry",
+        "publication": "arXiv preprint arXiv:2509.19954, 2025",
+        "cited_by": {
+          "value": 4,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6958023273874384792",
+          "serpapi_link": "https://serpapi.com/search.json?cites=6958023273874384792&engine=google_scholar&hl=en",
+          "cites_id": "6958023273874384792"
+        },
+        "year": "2025"
+      },
+      {
+        "title": "TASC: Task-Aware Shared Control for Relational Telemanipulation",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=pgD4ZGgAAAAJ&sortby=pubdate&citation_for_view=pgD4ZGgAAAAJ:isC4tDSrTZIC",
+        "citation_id": "pgD4ZGgAAAAJ:isC4tDSrTZIC",
+        "authors": "Z Fu, P Song, Y Hu, R Detry",
+        "publication": "arXiv preprint arXiv:2509.10416, 2025",
+        "cited_by": {
+          "value": null
+        },
+        "year": "2025"
+      },
+      {
+        "title": "Tasc: Task-aware shared control for teleoperated manipulation",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=pgD4ZGgAAAAJ&sortby=pubdate&citation_for_view=pgD4ZGgAAAAJ:Wp0gIr-vW9MC",
+        "citation_id": "pgD4ZGgAAAAJ:Wp0gIr-vW9MC",
+        "authors": "Z Fu, P Song, Y Hu, R Detry",
+        "publication": "arXiv e-prints, arXiv: 2509.10416, 2025",
+        "cited_by": {
+          "value": 6,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14507542803244086291",
+          "serpapi_link": "https://serpapi.com/search.json?cites=14507542803244086291&engine=google_scholar&hl=en",
+          "cites_id": "14507542803244086291"
+        },
+        "year": "2025"
+      },
+      {
+        "title": "Equivariant volumetric grasping",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=pgD4ZGgAAAAJ&sortby=pubdate&citation_for_view=pgD4ZGgAAAAJ:4DMP91E08xMC",
+        "citation_id": "pgD4ZGgAAAAJ:4DMP91E08xMC",
+        "authors": "P Song, Y Hu, P Li, R Detry",
+        "publication": "arXiv preprint arXiv:2507.18847, 2025",
+        "cited_by": {
+          "value": 4,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=578043368771416181",
+          "serpapi_link": "https://serpapi.com/search.json?cites=578043368771416181&engine=google_scholar&hl=en",
+          "cites_id": "578043368771416181"
+        },
+        "year": "2025"
+      },
+      {
+        "title": "Robust object detection of underwater robot based on domain generalization",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=pgD4ZGgAAAAJ&sortby=pubdate&citation_for_view=pgD4ZGgAAAAJ:M3ejUd6NZC8C",
+        "citation_id": "pgD4ZGgAAAAJ:M3ejUd6NZC8C",
+        "authors": "P Song",
+        "publication": "arXiv preprint arXiv:2503.19929, 2025",
+        "cited_by": {
+          "value": 1,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17506874432432177657",
+          "serpapi_link": "https://serpapi.com/search.json?cites=17506874432432177657&engine=google_scholar&hl=en",
+          "cites_id": "17506874432432177657"
+        },
+        "year": "2025"
+      },
+      {
+        "title": "Eventvl: Understand event streams via multimodal large language model",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=pgD4ZGgAAAAJ&sortby=pubdate&citation_for_view=pgD4ZGgAAAAJ:_kc_bZDykSQC",
+        "citation_id": "pgD4ZGgAAAAJ:_kc_bZDykSQC",
+        "authors": "P Li, Y Lu, P Song, W Li, H Yao, H Xiong",
+        "publication": "arXiv preprint arXiv:2501.13707, 2025",
+        "cited_by": {
+          "value": 14,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9548928590771278179",
+          "serpapi_link": "https://serpapi.com/search.json?cites=9548928590771278179&engine=google_scholar&hl=en",
+          "cites_id": "9548928590771278179"
+        },
+        "year": "2025"
+      },
+      {
+        "title": "Edge‐guided representation learning for underwater object detection",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=pgD4ZGgAAAAJ&sortby=pubdate&citation_for_view=pgD4ZGgAAAAJ:ufrVoPGSRksC",
+        "citation_id": "pgD4ZGgAAAAJ:ufrVoPGSRksC",
+        "authors": "L Dai, H Liu, P Song, H Tang, R Ding, S Li",
+        "publication": "CAAI Transactions on Intelligence Technology 9 (5), 1078-1091, 2024",
+        "cited_by": {
+          "value": 103,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7920664228702393873",
+          "serpapi_link": "https://serpapi.com/search.json?cites=7920664228702393873&engine=google_scholar&hl=en",
+          "cites_id": "7920664228702393873"
+        },
+        "year": "2024"
+      },
+      {
+        "title": "Underwater image clarifying based on human visual colour constancy using double‐opponency",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=pgD4ZGgAAAAJ&sortby=pubdate&citation_for_view=pgD4ZGgAAAAJ:LkGwnXOMwfcC",
+        "citation_id": "pgD4ZGgAAAAJ:LkGwnXOMwfcC",
+        "authors": "B Kong, J Qian, P Song, J Yang, A Hussain",
+        "publication": "CAAI Transactions on Intelligence Technology 9 (3), 632-648, 2024",
+        "cited_by": {
+          "value": 1,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9206986894764325859",
+          "serpapi_link": "https://serpapi.com/search.json?cites=9206986894764325859&engine=google_scholar&hl=en",
+          "cites_id": "9206986894764325859"
+        },
+        "year": "2024"
+      },
+      {
+        "title": "A gated cross-domain collaborative network for underwater object detection",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=pgD4ZGgAAAAJ&sortby=pubdate&citation_for_view=pgD4ZGgAAAAJ:MXK_kJrjxJIC",
+        "citation_id": "pgD4ZGgAAAAJ:MXK_kJrjxJIC",
+        "authors": "L Dai, H Liu, P Song, M Liu",
+        "publication": "Pattern Recognition 149, 110222, 2024",
+        "cited_by": {
+          "value": 178,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15771568187548674042",
+          "serpapi_link": "https://serpapi.com/search.json?cites=15771568187548674042&engine=google_scholar&hl=en",
+          "cites_id": "15771568187548674042"
+        },
+        "year": "2024"
+      },
+      {
+        "title": "Robot Trajectron: Trajectory Prediction-based Shared Control for Robot Manipulation",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=pgD4ZGgAAAAJ&sortby=pubdate&citation_for_view=pgD4ZGgAAAAJ:Zph67rFs4hoC",
+        "citation_id": "pgD4ZGgAAAAJ:Zph67rFs4hoC",
+        "authors": "P Song, P Li, E Aertbeliën, R Detry",
+        "publication": "2024 IEEE International Conference on Robotics and Automation (ICRA), 2024",
+        "cited_by": {
+          "value": 32,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11837728176122893618",
+          "serpapi_link": "https://serpapi.com/search.json?cites=11837728176122893618&engine=google_scholar&hl=en",
+          "cites_id": "11837728176122893618"
+        },
+        "year": "2024"
+      },
+      {
+        "title": "Neural ordinary differential equation for irregular human motion prediction",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=pgD4ZGgAAAAJ&sortby=pubdate&citation_for_view=pgD4ZGgAAAAJ:eQOLeE2rZwMC",
+        "citation_id": "pgD4ZGgAAAAJ:eQOLeE2rZwMC",
+        "authors": "Y Chen, H Liu, P Song, W Li",
+        "publication": "Pattern Recognition Letters 178, 76-83, 2024",
+        "cited_by": {
+          "value": 10,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17622433797051950371",
+          "serpapi_link": "https://serpapi.com/search.json?cites=17622433797051950371&engine=google_scholar&hl=en",
+          "cites_id": "17622433797051950371"
+        },
+        "year": "2024"
+      }
+    ],
+    "cited_by": {
+      "table": [
+        {
+          "citations": {
+            "all": 1845,
+            "since_2021": 1845
+          }
+        },
+        {
+          "h_index": {
+            "all": 14,
+            "since_2021": 14
+          }
+        },
+        {
+          "i10_index": {
+            "all": 15,
+            "since_2021": 15
+          }
+        }
+      ],
+      "graph": [
+        {
+          "year": 2022,
+          "citations": 20
+        },
+        {
+          "year": 2023,
+          "citations": 193
+        },
+        {
+          "year": 2024,
+          "citations": 428
+        },
+        {
+          "year": 2025,
+          "citations": 648
+        },
+        {
+          "year": 2026,
+          "citations": 548
+        }
+      ]
+    },
+    "public_access": {
+      "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=pgD4ZGgAAAAJ",
+      "available": 8,
+      "not_available": 0
+    },
+    "co_authors": [
+      {
+        "name": "Hong Liu",
+        "link": "https://scholar.google.com/citations?user=WLMUAjsAAAAJ&hl=en",
+        "serpapi_link": "https://serpapi.com/search.json?author_id=WLMUAjsAAAAJ&engine=google_scholar_author&hl=en&sort=pubdate",
+        "author_id": "WLMUAjsAAAAJ",
+        "affiliations": "Peking University",
+        "email": "Verified email at pku.edu.cn",
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=WLMUAjsAAAAJ&citpid=1"
+      },
+      {
+        "name": "Pengteng Li",
+        "link": "https://scholar.google.com/citations?user=u--xUoIAAAAJ&hl=en",
+        "serpapi_link": "https://serpapi.com/search.json?author_id=u--xUoIAAAAJ&engine=google_scholar_author&hl=en&sort=pubdate",
+        "author_id": "u--xUoIAAAAJ",
+        "affiliations": "HKUST(GZ) / AI2Robotics",
+        "email": "Verified email at connect.hkust-gz.edu.cn",
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=u--xUoIAAAAJ&citpid=9"
+      },
+      {
+        "name": "Linhui Dai",
+        "link": "https://scholar.google.com/citations?user=VFnZyPn_1sgC&hl=en",
+        "serpapi_link": "https://serpapi.com/search.json?author_id=VFnZyPn_1sgC&engine=google_scholar_author&hl=en&sort=pubdate",
+        "author_id": "VFnZyPn_1sgC",
+        "affiliations": "Peking University",
+        "email": "Verified email at szu.edu.cn",
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=VFnZyPn_1sgC&citpid=11"
+      },
+      {
+        "name": "Renaud Detry",
+        "link": "https://scholar.google.com/citations?user=KQFUVR8AAAAJ&hl=en",
+        "serpapi_link": "https://serpapi.com/search.json?author_id=KQFUVR8AAAAJ&engine=google_scholar_author&hl=en&sort=pubdate",
+        "author_id": "KQFUVR8AAAAJ",
+        "affiliations": "KU Leuven",
+        "email": "Verified email at kuleuven.be",
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=KQFUVR8AAAAJ&citpid=6"
+      },
+      {
+        "name": "Runwei Ding (丁润伟)",
+        "link": "https://scholar.google.com/citations?user=RZorbGsAAAAJ&hl=en",
+        "serpapi_link": "https://serpapi.com/search.json?author_id=RZorbGsAAAAJ&engine=google_scholar_author&hl=en&sort=pubdate",
+        "author_id": "RZorbGsAAAAJ",
+        "affiliations": "PKU/PCL",
+        "email": "Verified email at pkusz.edu.cn",
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=RZorbGsAAAAJ&citpid=2"
+      },
+      {
+        "name": "Zhan Chen",
+        "link": "https://scholar.google.com/citations?user=wnmrGPcAAAAJ&hl=en",
+        "serpapi_link": "https://serpapi.com/search.json?author_id=wnmrGPcAAAAJ&engine=google_scholar_author&hl=en&sort=pubdate",
+        "author_id": "wnmrGPcAAAAJ",
+        "affiliations": "Master of Peking University",
+        "email": "Verified email at pku.edu.cn",
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=wnmrGPcAAAAJ&citpid=1"
+      },
+      {
+        "name": "Tianyu Guo",
+        "link": "https://scholar.google.com/citations?user=6Y0jZZAAAAAJ&hl=en",
+        "serpapi_link": "https://serpapi.com/search.json?author_id=6Y0jZZAAAAAJ&engine=google_scholar_author&hl=en&sort=pubdate",
+        "author_id": "6Y0jZZAAAAAJ",
+        "affiliations": "Peking University; Ant Group",
+        "email": "Verified email at stu.pku.edu.cn",
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=6Y0jZZAAAAAJ&citpid=2"
+      },
+      {
+        "name": "Yutong Hu",
+        "link": "https://scholar.google.com/citations?user=BlK2gEAAAAAJ&hl=en",
+        "serpapi_link": "https://serpapi.com/search.json?author_id=BlK2gEAAAAAJ&engine=google_scholar_author&hl=en&sort=pubdate",
+        "author_id": "BlK2gEAAAAAJ",
+        "affiliations": "KU Leuven & INSAIT",
+        "email": "Verified email at kuleuven.be",
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=BlK2gEAAAAAJ&citpid=10"
+      },
+      {
+        "name": "Tao Wang",
+        "link": "https://scholar.google.com/citations?user=c4yOho0AAAAJ&hl=en",
+        "serpapi_link": "https://serpapi.com/search.json?author_id=c4yOho0AAAAJ&engine=google_scholar_author&hl=en&sort=pubdate",
+        "author_id": "c4yOho0AAAAJ",
+        "affiliations": "Peking University",
+        "email": "Verified email at stu.pku.edu.cn",
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=c4yOho0AAAAJ&citpid=1"
+      },
+      {
+        "name": "Wei Shi",
+        "link": "https://scholar.google.com/citations?user=ksm0CykAAAAJ&hl=en",
+        "serpapi_link": "https://serpapi.com/search.json?author_id=ksm0CykAAAAJ&engine=google_scholar_author&hl=en&sort=pubdate",
+        "author_id": "ksm0CykAAAAJ",
+        "affiliations": "Peking University",
+        "email": "Verified email at pku.edu.cn",
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ksm0CykAAAAJ&citpid=2"
+      },
+      {
+        "name": "Huizai Yao",
+        "link": "https://scholar.google.com/citations?user=KF2XbN0AAAAJ&hl=en",
+        "serpapi_link": "https://serpapi.com/search.json?author_id=KF2XbN0AAAAJ&engine=google_scholar_author&hl=en&sort=pubdate",
+        "author_id": "KF2XbN0AAAAJ",
+        "affiliations": "HKUST(GZ)",
+        "email": "Verified email at pjlab.org.cn",
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=KF2XbN0AAAAJ&citpid=1"
+      },
+      {
+        "name": "Mengyuan Liu",
+        "link": "https://scholar.google.com/citations?user=woX_4AcAAAAJ&hl=en",
+        "serpapi_link": "https://serpapi.com/search.json?author_id=woX_4AcAAAAJ&engine=google_scholar_author&hl=en&sort=pubdate",
+        "author_id": "woX_4AcAAAAJ",
+        "affiliations": "Researcher, Peking University",
+        "email": "Verified email at pku.edu.cn",
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=woX_4AcAAAAJ&citpid=30"
+      },
+      {
+        "name": "Ze Fu",
+        "link": "https://scholar.google.com/citations?user=b5O9XPwAAAAJ&hl=en",
+        "serpapi_link": "https://serpapi.com/search.json?author_id=b5O9XPwAAAAJ&engine=google_scholar_author&hl=en&sort=pubdate",
+        "author_id": "b5O9XPwAAAAJ",
+        "affiliations": "KU Leuven",
+        "email": "Verified email at kuleuven.be",
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=b5O9XPwAAAAJ&citpid=4"
+      },
+      {
+        "name": "F. Richard Yu",
+        "link": "https://scholar.google.com/citations?user=zuGMGBoAAAAJ&hl=en",
+        "serpapi_link": "https://serpapi.com/search.json?author_id=zuGMGBoAAAAJ&engine=google_scholar_author&hl=en&sort=pubdate",
+        "author_id": "zuGMGBoAAAAJ",
+        "affiliations": "Carleton University, FRSC, FCAE, MAE, FIEEE, FEIC",
+        "email": "Verified email at carleton.ca",
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=zuGMGBoAAAAJ&citpid=2"
+      },
+      {
+        "name": "Tiffany Ying He",
+        "link": "https://scholar.google.com/citations?user=wSdlXDYAAAAJ&hl=en",
+        "serpapi_link": "https://serpapi.com/search.json?author_id=wSdlXDYAAAAJ&engine=google_scholar_author&hl=en&sort=pubdate",
+        "author_id": "wSdlXDYAAAAJ",
+        "affiliations": "Shenzhen University; Carleton University",
+        "email": "Verified email at cmail.carleton.ca",
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=wSdlXDYAAAAJ&citpid=1"
+      },
+      {
+        "name": "Weiyu Guo",
+        "link": "https://scholar.google.com/citations?user=ES-56HMAAAAJ&hl=en",
+        "serpapi_link": "https://serpapi.com/search.json?author_id=ES-56HMAAAAJ&engine=google_scholar_author&hl=en&sort=pubdate",
+        "author_id": "ES-56HMAAAAJ",
+        "affiliations": "The Hong Kong University of Science and Technology",
+        "email": "Verified email at connect.ust.hk",
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ES-56HMAAAAJ&citpid=2"
+      },
+      {
+        "name": "Wuyang Li",
+        "link": "https://scholar.google.com/citations?user=3Ml_EbAAAAAJ&hl=en",
+        "serpapi_link": "https://serpapi.com/search.json?author_id=3Ml_EbAAAAAJ&engine=google_scholar_author&hl=en&sort=pubdate",
+        "author_id": "3Ml_EbAAAAAJ",
+        "affiliations": "Ant Group & EPFL & CityU",
+        "email": "Verified email at my.cityu.edu.hk",
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=3Ml_EbAAAAAJ&citpid=11"
+      },
+      {
+        "name": "Dr. Hui Xiong, Fellow of ACM, AAAS, A...",
+        "link": "https://scholar.google.com/citations?user=cVDF1tkAAAAJ&hl=en",
+        "serpapi_link": "https://serpapi.com/search.json?author_id=cVDF1tkAAAAJ&engine=google_scholar_author&hl=en&sort=pubdate",
+        "author_id": "cVDF1tkAAAAJ",
+        "affiliations": "Rutgers University/Baidu/HKUST",
+        "email": "Verified email at ust.hk",
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=cVDF1tkAAAAJ&citpid=5"
+      },
+      {
+        "name": "Dongfu yin",
+        "link": "https://scholar.google.com/citations?user=T-JHhl4AAAAJ&hl=en",
+        "serpapi_link": "https://serpapi.com/search.json?author_id=T-JHhl4AAAAJ&engine=google_scholar_author&hl=en&sort=pubdate",
+        "author_id": "T-JHhl4AAAAJ",
+        "affiliations": "Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ)",
+        "email": "Verified email at gml.ac.cn",
+        "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+      },
+      {
+        "name": "Yunfan Lu",
+        "link": "https://scholar.google.com/citations?user=nPUR_0sAAAAJ&hl=en",
+        "serpapi_link": "https://serpapi.com/search.json?author_id=nPUR_0sAAAAJ&engine=google_scholar_author&hl=en&sort=pubdate",
+        "author_id": "nPUR_0sAAAAJ",
+        "affiliations": "HKUST",
+        "email": "Verified email at ust.hk",
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=nPUR_0sAAAAJ&citpid=9"
+      }
+    ],
+    "serpapi_pagination": {
+      "next": "https://serpapi.com/search.json?author_id=pgD4ZGgAAAAJ&engine=google_scholar_author&hl=en&sort=pubdate&start=20"
+    }
+  }
+}
